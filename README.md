@@ -4,7 +4,8 @@
 - My hard skills:
  • Python 
  • Django + DRF 
- • PostgreSQL 
- • Git 
+ • PostgreSQL
+ • Celery
  • Docker
+ • Git
  • HTML, CSS, bootstarp
