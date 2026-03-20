@@ -8,4 +8,4 @@
  • Celery
  • Docker
  • Git
- • HTML, CSS, bootstarp
+
